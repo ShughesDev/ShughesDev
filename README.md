@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ShughesDev
-- 👀 I’m interested in Physics, Programming, Python, Stats, Policy, Science, Research, Defence, Finance, Data Science, AI
-- 🌱 I’m currently learning Python, application of tensors in programming, OOP
-- 💞️ I’m looking to collaborate on analysis projects, data science, producing Techno haha.
 - 📫 email: samjfhughes@gmail.com    insta: shugsy
 
 <!---
