@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShughesDev
-- 📫 email: samjfhughes@gmail.com    insta: shugsy
+- insta: shugsy
 
 <!---
 ShughesDev/ShughesDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
